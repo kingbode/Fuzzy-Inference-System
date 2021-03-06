@@ -1,0 +1,21 @@
+type,label,range1,range2,range3,range4
+a,Mean Delay,0,0.7,0.05,
+ftrap,VS,0,0,0.1,0.3
+ftria,S,0.1,0.3,0.5,
+ftrap,M,0.4,0.6,0.7,0.8
+a,Number of Servers,0,1,0.05,
+ftrap,S,0,0,0.2,0.35
+ftria,M,0.3,0.5,0.7,
+ftrap,L,0.6,0.8,1,1
+a,Repair Utilization Factor,0,1,0.05,
+ftrap,L,0,0,0.4,0.6
+ftria,M,0.4,0.6,0.8,
+ftrap,H,0.6,0.8,1,1
+c,Number of Spares,0,1,0.05,
+ftrap,VS,0,0,0.1,0.3
+ftria,S,0,0.2,0.4,
+ftria,RS,0.25,0.35,0.45,
+ftria,M,0.3,0.5,0.7,
+ftria,RL,0.55,0.65,0.75,
+ftria,L,0.6,0.8,1,
+ftrap,VL,0.7,0.9,1,1
