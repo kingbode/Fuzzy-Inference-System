@@ -1,0 +1,13 @@
+type,label,range1,range2,range3,range4
+a,quality,0,10,1,
+ftria,poor,0,0,5, 
+ftria,average,0,5,10,
+ftria,good,5,10,10, 
+a,service,0,10,1,
+ftria,poor,0,0,5, 
+ftria,average,0,5,10,
+ftria,good,5,10,10, 
+c,tip,0,25,1,
+ftria,low,0,0,13, 
+ftria,medium,0,13,25,
+ftria,high,13,25,25,
